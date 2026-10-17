@@ -34,7 +34,17 @@ Our group consists of three students, and each member is responsible for researc
 ## Presentation Video
 
 ## Project Materials
+Our project includes:
 
+PowerPoint presentation slides.
+
+Research notes and references.
+
+Speaking scripts for each group member.
+
+GitHub Issues and project collaboration records.
+
+All materials will be uploaded to this repository.
 ## GitHub Collaboration
 We used GitHub to organize our group project and collaborate.
 
