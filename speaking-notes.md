@@ -6,7 +6,7 @@ AI is a good helper when it comes to coding. However we cant rely on AI 100%. So
 
 ### Slide 8: Skills That Future Programmers Need
 
-In the future programmers need to know how to use AI, be a good problem solver and be good at communication.
+In the future programmers need to know how to be a good problem solver, be good at communication and how to use AI.
 
 ### Slide 9: Conclusion
 
