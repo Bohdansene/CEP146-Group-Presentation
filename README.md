@@ -8,7 +8,7 @@
 | Name | Student Number | Responsibilities |
 |---|---|---|
 | Bohdan | 124398264 | Slides 1–3: Introduction to AI, ChatGPT, GitHub Copilot, and AI coding assistance |
-| Umut | ... | Slides 4–6: AI benefits, limitations, risks, and C programming example |
+| Umut | 112568266 | Slides 4–6: AI benefits, limitations, risks, and C programming example |
 | Behlul | 118624261 | Slides 7–9: Future of programming, skills future programmers need, and conclusion |
 
 ## Project Summary
