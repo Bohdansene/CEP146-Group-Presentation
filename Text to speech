@@ -1,103 +1,89 @@
-##Slide 1
+## Slide 1 — What Is Artificial Intelligence?
 
-Today, our group will talk about an interesting question: Can Artificial Intelligence replace programmers?
+Today, our group will discuss an interesting question: Can AI replace programmers?
 
-Before we answer this question, let's understand what Artificial Intelligence, or AI, actually is.
+AI is technology that allows computers to perform tasks that normally require human intelligence.
 
-AI is technology that allows computers to do tasks that usually require human intelligence.
+We use AI every day. For example, ChatGPT answers questions, Siri understands voice commands, and Google Translate translates languages.
 
-We already use AI in everyday life.
+## Slide 2 — Popular AI Tools for Programmers
 
-For example, ChatGPT can answer questions, Siri can understand voice commands, and Google Translate can translate languages.
+There are three popular AI tools for programmers.
 
-AI is also becoming an important tool for programmers.
+**ChatGPT** helps write code and fix errors.
 
-Now, let's look at some AI tools that developers use.
+**Claude** helps analyze code and improve projects.
 
-References.
+**Grok** answers technical questions and helps solve programming problems.
 
+These tools are useful, but programmers still need to check their answers.
 
-##Slide 2
+## Slide 3 — How AI Helps Programmers
 
+AI helps programmers in four main ways.
 
-Now, let's look at three popular AI tools that programmers can use.
+First, it can generate code in languages like Python and C.
 
-The first one is **ChatGPT**, created by OpenAI. It can help programmers write code, explain difficult concepts, and find errors.
+Second, it helps find errors and suggests solutions.
 
-The second one is **Claude**, created by Anthropic. It can analyze code, explain how a project works, and suggest improvements.
+Third, it explains difficult programming concepts.
 
-The third one is **Grok**, created by xAI. It can answer programming questions and help solve coding problems.
+Finally, it saves time by helping with repetitive tasks.
 
-For example, if I have an error in my C program, I can ask an AI tool to explain the problem and suggest a solution.
+Now, let's look at the benefits and risks of AI.
 
-These tools can make programming easier, but we still need to check their answers.
+---
 
-Next, let's see how AI helps programmers in their everyday work.
+## Slide 4 — Benefits of AI in Programming
 
+AI helps programmers work faster and improve productivity.
 
-##Slide 3 
-
-
-Now, let's talk about how AI helps programmers in their everyday work.
-
-First, AI can help write code. For example, a programmer can ask ChatGPT to generate a simple program in Python or C.
-
-Second, AI can help fix errors. When a program is not working, AI can explain the error and suggest a possible solution.
-
-Third, AI helps programmers learn faster. It can explain difficult programming concepts and provide simple examples.
-
-Finally, AI can save time. It helps with repetitive tasks and allows programmers to focus on more important problems.
-
-However, AI is not always correct. Programmers still need to understand, review, and test the code.
-
-Now, I'll pass it to the next speaker, who will discuss the benefits and limitations of AI.
-
-
-
-
-Slide 4 - Benefits of AI in Programming
-
-
-Now, I will talk about the benefits of AI in programming.
-
-AI helps developers work faster and improve productivity. It can explain difficult code and help with documentation.
-
-For example, when programmers work on a new project, AI can suggest solutions and save time.
+It can explain difficult code, help with documentation, and suggest solutions.
 
 This allows programmers to focus on more complex problems.
 
+## Slide 5 — Limitations and Risks of AI
 
+However, AI also has limitations.
 
-Slide 5 - Limitations and Risks of AI
+It can generate incorrect code, create security risks, and misunderstand complex projects.
 
+According to the 2025 Stack Overflow Developer Survey, 46% of respondents distrust the accuracy of AI-generated results.
 
+This is why human programmers must review AI-generated code.
 
-However, AI also has some limitations.
+## Slide 6 — AI-Generated Code Example
 
-First, AI can generate incorrect code. Sometimes the code looks correct, but it has bugs.
+Here is an example of AI-generated C code.
 
-Second, AI can create security risks.
+ChatGPT created a program that checks if a number is even or odd using an if-else statement.
 
-AI also does not always understand complex projects or what the user really wants.
+For example, entering eight prints "Even number."
 
-According to the 2025 Stack Overflow Developer Survey, 46 percent of respondents do not trust the accuracy of AI-generated results.
+However, the program does not check for invalid input.
 
-This is why human programmers still need to review AI-generated code.
+This shows why programmers must test AI-generated code.
 
+---
 
-Slide 6 - AI-Generated Code Example
+## Slide 7 — Can AI Replace Programmers?
 
+AI is a powerful coding assistant, but we cannot rely on it completely.
 
-Here is a simple example of AI-generated C code.
+Human programmers are still needed to solve complex problems, make decisions, and check AI-generated code.
 
-I asked ChatGPT to write a program that checks if a number is even or odd.
+## Slide 8 — Skills That Future Programmers Need
 
-The program uses an if-else statement and the modulo operator.
+Future programmers will need strong problem-solving and communication skills.
 
-For example, if we enter eight, the program prints 'Even number.'
+They should also understand programming fundamentals and learn how to use AI tools effectively.
 
-But there is a problem. The program does not check if the user enters a valid number.
+## Slide 9 — Conclusion
 
-This shows that AI can generate code quickly, but programmers still need to test and improve it.
+In conclusion, AI is changing the programming industry.
 
-Thank you.
+It offers many benefits, but it also has limitations.
+
+We believe AI will not completely replace programmers. Instead, humans and AI will work together to develop better software.
+
+Thank you for listening!
